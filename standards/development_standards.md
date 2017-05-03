@@ -1,4 +1,4 @@
-# TODO: Add MuleSoft Development Standards
+MuleSoft Development Standards
 
 ## Source code structure
 
