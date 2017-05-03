@@ -4,17 +4,12 @@ MuleSoft is an enterprise integration platform that enables integration with sys
 
 The MuleSoft Standards will outline the architecture, design approaches, and development patterns and processes.
 
-## MuleSoft Architecture
-[TODO: add link here](standards/architecture.md)
+## MuleSoft Architecture - [link](standards/architecture.md)
 
-## General MuleSoft Development Standards
-[TODO: add link here](standards/development_standards.md)
+## General MuleSoft Development Standards - [link](standards/development_standards.md)
 
-## Integrated Development Environment (IDE) Options
-[TODO: add link here](standards/ide.md)
+## Integrated Development Environment (IDE) Options  -[link](standards/ide.md)
 
-## API Design and Development
-[TODO: add link here](standards/api_design_dev.md)
+## API Design and Development - [link](standards/api_design_dev.md)
 
-## Integration Design and Development
-[TODO: add link here](standards/intg_design_dev.md)
+## Integration Design and Development -[link](standards/intg_design_dev.md)
