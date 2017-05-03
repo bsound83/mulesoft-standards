@@ -12,4 +12,4 @@ The MuleSoft Standards will outline the architecture, design approaches, and dev
 
 ## API Design and Development - [link](standards/api_design_dev.md)
 
-## Integration Design and Development -[link](standards/intg_design_dev.md)
+## Integration Design and Development - [link](standards/intg_design_dev.md)
