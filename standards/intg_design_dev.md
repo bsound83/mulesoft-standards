@@ -1,1 +1,0 @@
-# TODO: Add Integration Design and Development Standards
